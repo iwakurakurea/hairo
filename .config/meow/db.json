@@ -1,0 +1,13 @@
+{
+	"db": "/home/clair/.config/meow/db.json",
+	"bashrc": "/home/clair/.bashrc",
+	"config": "/home/clair/.config",
+	"nvim": "/home/clair/.config/nvim/",
+	"wm": "/home/clair/.config/kwm/config.zon",
+	"kwm": "/home/clair/.config/kwm/config.zon",
+	"kwim": "/home/clair/.config/kwim/config.zon",
+	"im": "/home/clair/.config/kwim/config.zon",
+	"todo": "/home/clair/todo.txt",
+	"term": "/home/clair/.config/ghostty/config",
+	"river": "/home/clair/.config/river/init"
+}
